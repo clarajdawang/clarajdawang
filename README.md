@@ -8,7 +8,8 @@
 
 
 ### Completed:
-- [AI Poker Game](https://github.com/clarajdawang/Poker-Game):
+- [AI Poker Game](https://github.com/clarajdawang/Poker-Game): Aggressive 5-card poker AI using Max Heap and Red-Black Tree for optimal hand selection.
+- [Treasure Pathfinder](https://github.com/clarajdawang/Treasure-Pathfinder):Rule-based pathfinding and scoring system using graphs and dynamic programming.
 
 ## Contact me 📧
 - email: [clarajdawang@gmail.com](clarajdawang@gmail.com)
