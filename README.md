@@ -5,7 +5,7 @@
 
 ## Featured Projects
 ### Currently working on:
-
+- [Neurological Rehabilitation Capstone](https://github.com/EllaBourne/HandbrainCapstone): Currently focused on computer vision and sensor integration
 
 ### Completed:
 - [AI Poker Game](https://github.com/clarajdawang/Poker-Game): Aggressive 5-card poker AI using Max Heap and Red-Black Tree for optimal hand selection.
