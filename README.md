@@ -5,7 +5,8 @@
 
 ## Featured Projects
 ### Currently working on:
-- [Neurological Rehabilitation Capstone](https://github.com/EllaBourne/HandbrainCapstone): Currently focused on PCB design and frontend game development
+- [Neurological Rehabilitation Capstone](https://github.com/EllaBourne/HandbrainCapstone): Currently focused on PCB design and frontend game development.
+- [TCP Grade API](https://github.com/clarajdawang/TCP-grade-API): Python client/server app for secure grade retrieval using TCP socket programming.
 
 ### Completed:
 - [Hardware Image Decompressor](https://github.com/clarajdawang/Hardware-Image-Decompressor): FPGA image decompressor using SystemVerilog and fixed-point DSP.
