@@ -1,6 +1,6 @@
 # Hello, I'm Clara 🐱
 - I'm in my final year of Computer Engineering at McMaster Univesity
-- Passionate about hardware design, technical writing, and public infrastructure!
+- Passionate about network engineering, hardware design, and technical writing
 - Experienced in C/C++, Java, Python, Verilog, SystemVerilog, Assembly, and MATLAB
 
 ## Featured Projects
